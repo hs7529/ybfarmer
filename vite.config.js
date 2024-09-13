@@ -6,7 +6,7 @@ import { defineConfig } from "vite";
 export default defineConfig({
   // 기본적인 설정
   // base: "./", // 모든 경로에 대해 기본 URL
-  base: "/ybfarmer/", // GitHub Pages 배포 시 base 경로 설정
+  base: "/", // GitHub Pages 배포 시 base 경로 설정
   root: "./src", // 프로젝트의 루트 디렉토리
   // mode: "development", // 'development' | 'production'
 
